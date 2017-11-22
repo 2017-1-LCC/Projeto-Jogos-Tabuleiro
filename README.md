@@ -1,2 +1,3 @@
-# Projeto-Jogos-Tabuleiro
-repositório do jogos de tabuleirooo..
+# Exercitar lógica em crinças com jogos de tabuleiro.
+
+
