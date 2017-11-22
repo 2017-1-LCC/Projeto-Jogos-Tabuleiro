@@ -5,11 +5,9 @@
 </p>
 
 <h4>Alunos</h4>
-<ul>
     <li>Eliel das Vigens</li>
     <li>Fernando Henrique</li>
     <li>Raniel César</li>
-</ul>
 
 <ul>
     <li>Sumário</li>
@@ -22,5 +20,15 @@
     <li><a href="REFERENCIAS.md">Referências</a></li>
 </ul>
 
+Status do Projeto : 
+
+### O QUE ESTÁ SENDO FEITO?
+
+- [ ] - PROBLEMATIZACAO
+- [ ] - JUSTIFICATIVA
+- [ ] - OBJETIVO
+- [ ] - FUNDAMENTACAO TEORICA
+- [ ] - METODOLOGIA
+- [ ] - CRONOGRAMA
 
 
