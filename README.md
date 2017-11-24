@@ -4,13 +4,11 @@
 
 
 ### Alunos
-
-    *Eliel das Vigens
-    *Fernando Henrique
-    *Raniel César
+    * Eliel das Vigens
+    * Fernando Henrique
+    * Raniel César
 
 ## Sumário pré projeto.
-
 <ul>
     <li><a href="01-PROBLEMATIZACAO.md">Problematização</a></li>
     <li><a href="02-JUSTIFICATIVA.md">Justificativa</a></li>
@@ -36,12 +34,12 @@
 *Status do Projeto*
 
 ### O QUE ESTÁ SENDO FEITO?
-
-- [ ] - PROBLEMATIZACAO
-- [ ] - JUSTIFICATIVA
-- [ ] - OBJETIVO
-- [ ] - FUNDAMENTACAO TEORICA
+- [ ] - RESUMO
+- [ ] - INTRODUÇÃO
+- [x] - FUNDAMENTAÇÃO-TEORICA
 - [ ] - METODOLOGIA
-- [ ] - CRONOGRAMA
+- [ ] - RESULTADOS
+- [ ] - CONCLUSÕES
+- [ ] - REFERENCIAS
 
 
