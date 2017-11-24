@@ -1,4 +1,3 @@
-<p>
 A lógica está presente na vida de todas as pessoas de maneira direta ou indireta. seu uso se da de muitas formas diferentes estando presente
 de forma interdisciplinar, para se organizar um texto faz-se o uso de lógica, assim como para organizar uma questão matemática, ou quimica e física, além disso a lógica ajuda em decisões contidicanas. Existem muitas aplicações para a lógica mas existem também diversos tipos de lógica,
 os jogos de tabuleiro são usados a milênios para o exercício da lógica ou para distração e divertimento, mas o exercício mental está presente na grande maioria, e em busca desse exercicio esse projeto tenta proporcionar uma interaçao pessoal com o exercicio da logica.
@@ -13,4 +12,3 @@ De acordo com o [LOBOGAMES] os jogos sendo aplicados de forma ordenada serão ma
 <span>
 "O diferencial desde projeto é exatamente a sequência sugerida para a prática do jogos indicadores, enão os jogos em sí. É sugerido que o praticamente experiente cada jogo uma ou duas vezes e depois passe para o seguinte, evitando assim a polarização e especialização em um único jogo. Dessa forma, é priorizado o exercício do raciocínio lógico, minimizando a influência da memória prévia de pradrões e de técnicas ( estratégias ) previamente estudas para cada jogo."
 </span>
-</p>
