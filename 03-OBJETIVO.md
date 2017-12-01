@@ -14,7 +14,7 @@
 
 - [ ] Piaget
 - [ ] Wallon
-- [ ] Estudar teorias "Interacionalistas"
+- [ ] Estudar teorias "Interacionistas"
 
 
 ## Analisar as bases conceituais da lógica, desenvolvimento da criança e aprendizagem.
