@@ -4,5 +4,4 @@ A falta de preparo desde o ensino básico causa uma grande dificuldade de aprend
 
 ## **REVISÃO**
 
-- Vira introdução
-- Breve apresentação do projeto apresentando as principais ideias, o que motivou o desenvolvimento e como o mesmo estará estruturado. Falar um pouco do foco da pesquisa e por que os autores desejam realizar.
+
