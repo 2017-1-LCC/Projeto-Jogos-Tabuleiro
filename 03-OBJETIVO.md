@@ -12,9 +12,9 @@
 
 ### Leituras
 
-- [] Piaget
-- [] Wallon
-- [] Estudar teorias "Interacionalistas"
+- [ ] Piaget
+- [ ] Wallon
+- [ ] Estudar teorias "Interacionalistas"
 
 
 ## Analisar as bases conceituais da lógica, desenvolvimento da criança e aprendizagem.
