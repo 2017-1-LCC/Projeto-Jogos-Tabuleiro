@@ -23,3 +23,12 @@ De acordo com o [LOBOGAMES] os jogos sendo aplicados de forma ordenada serão ma
 <p>
 "O diferencial desde projeto é exatamente a sequência sugerida para a prática do jogos indicadores, enão os jogos em sí. É sugerido que o praticamente experiente cada jogo uma ou duas vezes e depois passe para o seguinte, evitando assim a polarização e especialização em um único jogo. Dessa forma, é priorizado o exercício do raciocínio lógico, minimizando a influência da memória prévia de pradrões e de técnicas ( estratégias ) previamente estudas para cada jogo."
 </p>
+
+
+### Edição: Raniel (ranoob)
+
+##### Cada criança convive em um meio diferente. Cada meio tem suas particularidades, tais como cultura, crença, religião, modo de vida, etc. O que acaba designando a forma com que a criança vê o mundo. Wallon diz que:
+
+   ###### “O meio é um complemento indispensável ao ser vivo. Ele deverá corresponder a suas necessidades e as suas aptidões sensório-motoras e, depois, psicomotoras... Não é menos verdadeiro que a sociedade coloca o homem em presença de novos meios, novas necessidades e novos recursos que aumentam possibilidades de evolução e diferenciação individual. A constituição biológica da criança, ao nascer, não será a única lei de seu destino posterior. Seus efeitos podem ser amplamente transformados pelas circunstâncias de sua existência, da qual não se exclui sua possibilidade de escolha pessoal... Os meios em que vive a criança e aqueles com que ela sonha constituem a "forma" que amolda sua pessoa. Não se trata de uma marca aceita passivamente. (Wallon, 1975, pp. 164, 165, 167) ”
+    
+WALLON, H. (1959-1975). Psicologia e educação da infância. Lisboa, Estampa.
