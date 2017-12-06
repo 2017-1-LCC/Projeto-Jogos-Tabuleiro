@@ -36,10 +36,14 @@
 ### O QUE ESTÁ SENDO FEITO?
 - [ ] - RESUMO
 - [ ] - INTRODUÇÃO
+- [x] - JUSTIFICATIVA
 - [x] - FUNDAMENTAÇÃO-TEORICA
 - [ ] - METODOLOGIA
 - [ ] - RESULTADOS
 - [ ] - CONCLUSÕES
 - [ ] - REFERENCIAS
 
+### JÁ FEITO
+
+- [x] PROBLEMATIZAÇÃO
 
