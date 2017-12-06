@@ -27,3 +27,6 @@ Devido a facilidade que as criança tem de aprender coisas novas, o ensino de l�
 
 - Com base no programa de extensão “Lobogames”, da UFRGS (2014-2015), vimos que é possível, de maneira simples e barata, fazer com que a criança exercite a lógica com brincadeiras lúcidas e interação com o meio em que ela está. Muitas crianças têm dificuldade em interagir com outras, dificultando assim, o modo como ela vê a escola ou a vida. Uma pessoa que não interage com outra sempre vai ter dificuldade em resolver problemas, conseguir algo que seja do seu desejo e até arranjar um emprego, que é essencial nos dias de hoje. Esses jogos vêm com esse intuito de ajudar a criança, tanto no meio social, quanto na aprendizagem pessoal.
 
+- No parágrafo acima, diz-se “de maneira simples e barata”, mas como seria isso? Usando jogos simples que vão gradativamente aumentando a dificuldade e utilizando recursos recicláveis ou até materiais que sejam de baixo custo.
+
+- Com isso, queremos demonstrar que, ao se exercitar lógica desde as primeiras series, o desenvolvimento cognitivo da criança será estimulado, ajudando assim, na aprendizagem de outras disciplinas escolares e no convívio social. 
