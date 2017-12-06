@@ -3,7 +3,7 @@ Devido a facilidade que as criança tem de aprender coisas novas, o ensino de l�
 
 ## REVISÃO
 
-- A imporância da proposta do projeto, a partir do tema, para o sujeito.
+- A importância da proposta do projeto, a partir do tema, para o sujeito.
 
 - Qual a relevância do mesmo?
 
@@ -17,3 +17,8 @@ Devido a facilidade que as criança tem de aprender coisas novas, o ensino de l�
 #### Pergunte a você mesmo: o tema é relevante e, se é, por quê?
 
 #### Quais os pontos positivos que você percebe na abordagem da proposta? Que vantagens e benefícios você presupõe que sua pesquisa irá proporcionar? A justificativa deverá convencer quem for ler o projeto, com relação à importância e à relevância da pesquisa proposta.
+
+
+### Começando a revisar
+
+- Como vem sendo estudado, o raciocínio lógico é de suma importância para a vida. O motivo é que a lógica é algo interdisciplinar, que vai servir para várias áreas. Não apenas, como a maioria pensa, para a matemática ou as áreas de exatas. Pensando nisso, imagine o quão bom seria para uma criança exercitar a lógica desde as primeiras idades, nas series iniciais de sua vida como estudante.
