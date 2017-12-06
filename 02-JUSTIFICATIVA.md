@@ -22,3 +22,8 @@ Devido a facilidade que as criança tem de aprender coisas novas, o ensino de l�
 ### Começando a revisar
 
 - Como vem sendo estudado, o raciocínio lógico é de suma importância para a vida. O motivo é que a lógica é algo interdisciplinar, que vai servir para várias áreas. Não apenas, como a maioria pensa, para a matemática ou as áreas de exatas. Pensando nisso, imagine o quão bom seria para uma criança exercitar a lógica desde as primeiras idades, nas series iniciais de sua vida como estudante.
+
+- Pensando nisso, como exercitar a lógica de modo com que a criança aprenda brincando e se divertindo? Interagindo com o meio em que ela está, de forma lúcida, de uma maneira em que ela se sinta bem e leve aquilo para toda a vida?
+
+- Com base no programa de extensão “Lobogames”, da UFRGS, vimos que é possível, de maneira simples e barata, fazer com que a criança exercite a lógica com brincadeiras lúcidas e interação com o meio em que ela está. Muitas crianças têm dificuldade em interagir com outras, dificultando assim, o modo como ela vê a escola ou a vida. Uma pessoa que não interage com outra sempre vai ter dificuldade em resolver problemas, conseguir algo que seja do seu desejo e até arranjar um emprego, que é essencial nos dias de hoje. Esses jogos vêm com esse intuito de ajudar a criança, tanto no meio social, quanto na aprendizagem pessoal.
+
