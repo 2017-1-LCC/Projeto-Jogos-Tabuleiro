@@ -1,1 +1,5 @@
-# Breve apresentação do projeto apresentando as principais ideias, o que motivou o desenvolvimento e como o mesmo estará estruturado. Falar um pouco do foco da pesquisa e por que os autores desejam realizar.
+<p>
+Um dos desafios do projeto é conseguir desfocar a atenção dos discentes de toda a tecnologia que os rodeia e agregar essa atenção as ferramentas que serão utilizadas para tal aprendizagem e fazer com que docentes e discentes assumam a ideia de que necessitamos da lógica não só em sala de aula, mas no dia a dia também. Sendo assim
+qual seria a melhor forma de ser exercitar lógica gastando pouco e tendo bons
+resultados?
+</p>
