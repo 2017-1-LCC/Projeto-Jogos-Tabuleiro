@@ -27,3 +27,5 @@ construção propriamente dita” (Piaget,1940, p.12).
 
 - “A compreensão matemática não é questão de aptidão da criança. É um erro supor que um fracasso em matemática obedeça a uma falta de aptidão. A operação matemática deriva da ação: resulta que a apresentação intuitiva não basta, a criança deve realizar por si mesma a operação manual antes de preparar a operação mental. (...) Em todos os domínios da matemática, o qualitativo deve preceder ao numérico” (Piaget, 1950, pp.79 e 80).
 
+- 
+
