@@ -2,7 +2,7 @@
 ### Edição: 07-12-2017 - 11:57
 
 
-A lógica está presente na vida de todas as pessoas de maneira direta ou indireta. Seu uso se dá de muitas formas diferentes, estando presente de maneira interdisciplinar. Como, por exemplo, para organizar um texto faz-se uso de lógica, assim como para organizar uma questão matemática, química ou física. Além disso a lógica ajuda em decisões contidicanas.
+A lógica está presente na vida de todas as pessoas de maneira direta ou indireta. Seu uso se dá de muitas formas diferentes, estando presente de maneira interdisciplinar. Como, por exemplo, para organizar um texto, assim como para organizar uma questão matemática, química ou física, faz-se uso de lógica. Além disso a lógica ajuda em decisões contidicanas.
 
 Existem muitas aplicações para a lógica, porém existem diversos tipos, o que queremos é exercitá-la de modo geral. Os jogos de tabuleiro são usados a milênios para o exercício da lógica ou para distração e divertimento. Visto isso, esse projeto tenta proporcionar uma interação pessoal com esses jogos, e, a partir deles, o desenvolvimento cognitivo e pessoal.
 
