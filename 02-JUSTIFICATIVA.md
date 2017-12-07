@@ -29,4 +29,4 @@ Devido a facilidade que as criança tem de aprender coisas novas, o ensino de l�
 
 - No parágrafo acima, diz-se “de maneira simples e barata”, mas como seria isso? Usando jogos simples que vão gradativamente aumentando a dificuldade e utilizando recursos recicláveis ou até materiais que sejam de baixo custo.
 
-- Com isso, queremos demonstrar que, ao se exercitar lógica desde as primeiras series, o desenvolvimento cognitivo da criança será estimulado, ajudando assim, na aprendizagem de outras disciplinas escolares e no convívio social. 
+- Com isso, queremos demonstrar que ao se exercitar lógica desde as primeiras series, o desenvolvimento cognitivo da criança será estimulado, ajudando assim, na aprendizagem de outras disciplinas escolares e no convívio social. 
