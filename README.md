@@ -1,4 +1,4 @@
-# Exercitar lógica em crinças com jogos de tabuleiro.
+# Exercitar lógica em crianças com jogos de tabuleiro.
 
 # DESCRIÇÃO DO PROJETO.
 
