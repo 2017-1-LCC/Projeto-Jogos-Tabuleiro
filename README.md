@@ -8,15 +8,35 @@
     * Fernando Henrique
     * Raniel César
 
-## Sumário pré projeto.
+## Sumário Pré Projeto.
 <ul>
-    <li><a href="01-PROBLEMATIZACAO.md">Problematização</a></li>
-    <li><a href="02-JUSTIFICATIVA.md">Justificativa</a></li>
-    <li><a href="03-OBJETIVO.md">Objetivo</a></li>
-    <li><a href="04-FUNDAMENTACAO-TEORICA.md">Fundamentação Teórica</a></li>
-    <li><a href="05-METODOLOGIA.md">Metodologia</a></li>
-    <li><a href="06-CRONOGRAMA.md">Cronograma</a></li>
-    <li><a href="REFERENCIAS.md">Referências</a></li>
+    <li><a href="./PRE-PROJETO/01-PROBLEMATIZACAO.md">Problematização</a></li>
+    <li><a href="./PRE-PROJETO/02-JUSTIFICATIVA.md">Justificativa</a></li>
+    <li><a href="./PRE-PROJETO/03-OBJETIVO.md">Objetivo</a></li>
+    <li><a href="./PRE-PROJETO/04-FUNDAMENTACAO-TEORICA.md">Fundamentação Teórica</a></li>
+    <li><a href="./PRE-PROJETO/05-METODOLOGIA.md">Metodologia</a></li>
+    <li><a href="./PRE-PROJETO/06-CRONOGRAMA.md">Cronograma</a></li>
+    <li><a href="./PRE-PROJETO/REFERENCIAS.md">Referências</a></li>
+</ul>
+
+
+## Sumário Projeto.
+<ul>
+    <li><a href="./PROJETO/01. TEMA E TÍTULO DO PROJETO.md">Tema</a></li>
+    <li><a href="./PROJETO/02. JUSTIFICATIVA.md">Justificativa</a></li>
+    <li><a href="./PROJETO/03. PROBLEMA.md">Problema</a></li>
+    <li><a href="./PROJETO/04. FORMULAÇÃO E HIPÓTESES.md">Formulação e Hipóteses</a></li>
+    <li><a href="./PROJETO/05. OBJETIVOS.md">Objetivos</a></li>
+    <li><a href="./PROJETO/05.01 GERAIS.md">Gerais</a></li>
+    <li><a href="./PROJETO/05.03 ESPECÍFICOS.md">Específicos</a></li>
+    <li><a href="./PROJETO/06. FUNDAMENTAÇÃO TEÓRICA.md">Fundamentação Teórica</a></li>
+    <li><a href="./PROJETO/07. METODOLOGIA.md">Metodologia</a></li>
+    <li><a href="./PROJETO/08. RESULTADOS ESPERADOS.md">Resultados Esperados</a></li>
+    <li><a href="./PROJETO/09. CRONOGRAMA.md">Cronograma</a></li>
+    <li><a href="./PROJETO/10. ORÇAMENTO.md">Orçamento</a></li>
+    <li><a href="./PROJETO/11. REFERÊNCIAS.md">Referências</a></li>
+    <li><a href="./PROJETO/12. APÊNDICES.md">Apêndices</a></li>
+    <li><a href="./PROJETO/13. ANEXOS.md">Anexos</a></li>
 </ul>
 
 
@@ -31,11 +51,12 @@
     <li><a href="./ARTIGO/07-REFERENCIAS.md">Referências</a></li>
 </ul>
 
+
 *Status do Projeto*
 
 ### O QUE ESTÁ SENDO FEITO?
 - [ ] - RESUMO
-- [ ] - INTRODUÇÃO
+- [x] - INTRODUÇÃO
 - [x] - FUNDAMENTAÇÃO-TEORICA
 - [ ] - METODOLOGIA
 - [ ] - RESULTADOS
@@ -45,6 +66,9 @@
 ### JÁ FEITO
 
 - [x] PROBLEMATIZAÇÃO
-- [x] - JUSTIFICATIVA 
+- [x] - JUSTIFICATIVA
+- [x] - FUNDAMENTAÇÃO-TEORICA
+- [ ] - METODOLOGIA 
+- [ ] - CRONOGRAMA 
    - Sempre bom revisar
 
