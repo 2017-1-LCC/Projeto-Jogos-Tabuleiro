@@ -10,12 +10,13 @@
 
 ## Sumário Pré Projeto.
 <ul>
-    <li><a href="./PRE-PROJETO/01-PROBLEMATIZACAO.md">Problematização</a></li>
-    <li><a href="./PRE-PROJETO/02-JUSTIFICATIVA.md">Justificativa</a></li>
-    <li><a href="./PRE-PROJETO/03-OBJETIVO.md">Objetivo</a></li>
-    <li><a href="./PRE-PROJETO/04-FUNDAMENTACAO-TEORICA.md">Fundamentação Teórica</a></li>
-    <li><a href="./PRE-PROJETO/05-METODOLOGIA.md">Metodologia</a></li>
-    <li><a href="./PRE-PROJETO/06-CRONOGRAMA.md">Cronograma</a></li>
+    <li><a href="./PRE-PROJETO/00 - INTRO.md">Introdução</a></li>
+    <li><a href="./PRE-PROJETO/01 - PROBLEMATIZACAO.md">Problematização</a></li>
+    <li><a href="./PRE-PROJETO/02 - JUSTIFICATIVA.md">Justificativa</a></li>
+    <li><a href="./PRE-PROJETO/03 - OBJETIVO.md">Objetivo</a></li>
+    <li><a href="./PRE-PROJETO/04 - FUNDAMENTACAO-TEORICA.md">Fundamentação Teórica</a></li>
+    <li><a href="./PRE-PROJETO/05 - METODOLOGIA.md">Metodologia</a></li>
+    <li><a href="./PRE-PROJETO/06 - CRONOGRAMA.md">Cronograma</a></li>
     <li><a href="./PRE-PROJETO/REFERENCIAS.md">Referências</a></li>
 </ul>
 
