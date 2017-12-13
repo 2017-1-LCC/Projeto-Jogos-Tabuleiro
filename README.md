@@ -11,7 +11,7 @@
 ## Sumário Pré Projeto.
 <ul>
     <li><a href="./PRE-PROJETO/00 - INTRO.md">Introdução</a></li>
-    <li><a href="./PRE-PROJETO/01 - PROBLEMATIZACÃO.md">Problematização</a></li>
+    <li><a href="./PRE-PROJETO/01 - PROBLEMATIZAÇÃO.md">Problematização</a></li>
     <li><a href="./PRE-PROJETO/02 - JUSTIFICATIVA.md">Justificativa</a></li>
     <li><a href="./PRE-PROJETO/03 - OBJETIVO.md">Objetivo</a></li>
     <li><a href="./PRE-PROJETO/04 - FUNDAMENTACAO-TEORICA.md">Fundamentação Teórica</a></li>
