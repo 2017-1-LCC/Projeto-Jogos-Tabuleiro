@@ -22,9 +22,3 @@
 - Durante a aplicação usaremos como base o projeto de extensão LOBOGAMES (UFRGS), que sugere uma sequência para a prática dos jogos, onde existe um nível básico que deve ser praticado ao menos duas vezes antes de passar para o próximo nível. Priorizando assim o exercício do raciocínio lógico e minimizando a influência da memória prévia de padrões e de estratégias. Na medida que cada etapa for compreendida e aplicada concluíremos que o(a) aluno(a) deverá avançar o nível para um jogo de grau mais elevado. Serão aplicados 05 (cinco) jogos de níveis de dificuldade diferentes uns dos outros e com base eliminatória, mas que agregam entre si uma concepção de ensino e regras à serem seguidas que acarretarão no desenvolvimento lógico, cognitivo e social dos jogadores.
 
 - Aps a aplicação dos jogos faremos um questionário, onde iremos analisar as respostas, concluindo se através desta aplicaço houve ou não uma mudança na concepção sobre lógica para aqueles que participarão diretamente na aplicação do projeto.
-
-
-
-- 
-
-- 
