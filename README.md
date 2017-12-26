@@ -23,8 +23,8 @@
 
 ## Sumário Projeto.
 <ul>
-    <li><a href="./PROJETO/01. TEMA E TÍTULO DO PROJETO.md">Tema</a></li>
-    <li><a href="./PROJETO/02. JUSTIFICATIVA.md">Justificativa</a></li>
+    <li><a href="./PROJETO/01. TEMA E TÍTULO DO PROJETO.md">Tema</a> - em desenvolvimento</li>
+    <li><a href="./PROJETO/02. JUSTIFICATIVA.md">Justificativa</a> - em desenvolvimento - 26-12-2017 ( Eliel )</li>
     <li><a href="./PROJETO/03. PROBLEMA.md">Problema</a></li>
     <li><a href="./PROJETO/04. FORMULAÇÃO E HIPÓTESES.md">Formulação e Hipóteses</a></li>
     <li><a href="./PROJETO/05. OBJETIVOS.md">Objetivos</a></li>
@@ -55,21 +55,25 @@
 
 *Status do Projeto*
 
-### O QUE ESTÁ SENDO FEITO?
-- [ ] - RESUMO
-- [x] - INTRODUÇÃO
-- [x] - FUNDAMENTAÇÃO-TEORICA
+### STATUS DO PROJETO
+- [ ] - TEMA E TÍTULO DO PROJETO
+- [ ] - JUSTIFICATIVA
+- [x] - PROBLEMA - <b>em desenvolvimento</b>
+- [ ] - FORMULAÇÃO E HIPÓTESES
+- [ ] - OBJETIVOS  {   GERAIS:[ ] | ESPECÍFICOS:[ ]}
+- [ ] - FUNDAMENTAÇÃO TEÓRICA
 - [ ] - METODOLOGIA
-- [ ] - RESULTADOS
-- [ ] - CONCLUSÕES
-- [ ] - REFERENCIAS
+- [ ] - RESULTADOS ESPERADOS
+- [ ] - CRONOGRAMA
+- [ ] - ORÇAMENTO
+- [ ] - REFERÊNCIAS
+- [ ] - APÊNDICES
+- [ ] - ANEXOS
 
-### JÁ FEITO
-
+### JÁ FEITO  pré projeto! 
 - [x] PROBLEMATIZAÇÃO
 - [x] - JUSTIFICATIVA
 - [x] - FUNDAMENTAÇÃO-TEORICA
-- [ ] - METODOLOGIA 
-- [ ] - CRONOGRAMA 
-   - Sempre bom revisar
+- [x] - METODOLOGIA 
+- [x] - CRONOGRAMA 
 
