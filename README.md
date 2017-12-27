@@ -57,8 +57,8 @@
 
 ### STATUS DO PROJETO
 - [ ] - TEMA E TÍTULO DO PROJETO
-- [ ] - JUSTIFICATIVA
-- [x] - PROBLEMA - <b>em desenvolvimento</b>
+- [x] - JUSTIFICATIVA - <b>corrigido</b>
+- [x] - PROBLEMA - <b>corrigido</b>
 - [ ] - FORMULAÇÃO E HIPÓTESES
 - [ ] - OBJETIVOS  {   GERAIS:[ ] | ESPECÍFICOS:[ ]}
 - [ ] - FUNDAMENTAÇÃO TEÓRICA
