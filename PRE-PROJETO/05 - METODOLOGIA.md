@@ -1,18 +1,3 @@
-## REVISÃO
-
-- Apresentar o tipo de pesquisa.
-   - Exemplo: Dedutivo, indutivo, etc...
-   
-- A abordagem da pesquisa.
-
-- Os intrumentos de coleta de dados.
-
-- As etapas da pesquisa.
-
-- Como serão analisados os resultados.
-
-### Contextualizada ao tema, problema e objetivos.
-
 - A ideia do projeto se inicia através da seguinte indagação: como exercitar lógica de uma maneira lúdica? A partir daí acreditamos que através dos jogos de tabuleiro seria possível agregar raciocínio lógico, diversão, interação social e quem sabe encontrar a resposta da indagação inicial.
 
 - Iniciamos o projeto com o procedimento de pesquisa bibliográfica que consiste no levantamento de referências teóricas já analisadas, em busca de um conhecimento prévio téorico, para que pudessemos obter determinada base na aplicação de um projeto de pesquisa. Usamos como referênciais teóricos o projeto de extensão LOBOGAMES, da Universidade Federal do Rio Grande do Sul (UFRGS), no qual obtivemos uma visão mais ampla para a aplicação dos jogos lógicos de tabuleiro. Outros autores fundamentais para o entedimento da aplicação do projeto foram Jean Piaget, com sua teoria da aprendizagem ele explica que, [**DAS VIRGENS**], Lev Vygotsky, [**FÊ**], por fim Henri Wallon, [**EU**].
