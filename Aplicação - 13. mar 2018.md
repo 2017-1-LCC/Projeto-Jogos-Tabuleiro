@@ -56,7 +56,7 @@
   - Um bom apoio da coordenação e professores da escola
   
   
-  - Partindo da perspectiva Walloniana, que o meio influência na aprendizagem, vimos que o estado deveria prover de um melhor ambiente
+  - Partindo da perspectiva Walloniana de que o meio influência na aprendizagem, vimos que o estado deveria prover de um melhor ambiente
   para se aprender.
   
   - Um faixa etária boa para aplicação do projeto.
