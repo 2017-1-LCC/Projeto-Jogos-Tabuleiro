@@ -1,6 +1,6 @@
 ### Segunda aplicação
 
-- 13 alunos
+- 19 alunos
 
 - Todos jogaram jogos de tabuleiro
 - Todos brincam na rua
